@@ -1,5 +1,5 @@
 # Lending Club
-> Lending Club Project details:.....
+> We are a group who will analyze the data given in a csv format containing the loan details of various customers. Aim is to go through the data and provide suggestions on steps to be taken to avoid default of loans
 
 
 ## Table of Contents
@@ -11,10 +11,11 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- We look at the loan data, having various columns. We clean the data, then use the columns to do analysis using single columns, multiple columns.
+- We then, draw the graph to visualize the analysis done so far. 
+- As a group  which specialises in lending various types of loans to urban customers. we try to analyze various columns and bring out facts
+- We try to solve business problem such as in what conditions, customer might default loan, study the demography of those customers, to which income group they belong etc. This will help to put some investigations in place, to have some pre-checks, scrutiny n place to avoid such defaults
+- dataset consists of the the csv file containing loan data
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,21 +29,20 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
+- numpy library
+- pandas library
+- matplotlib library
+- seaborn library
+- 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by SME S.Anand, he provided great details of EDA and examples. Concepts were clarified in great detail
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@krishnajinka] and [@jayachandran-c] - feel free to contact us!
 
 
 <!-- Optional -->

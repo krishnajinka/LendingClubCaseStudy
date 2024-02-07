@@ -20,10 +20,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Need to add more scrutiny , background checks for loans taken with purpose of debt consolidation 
+- Popular instalment is 200 to 400, this will be the cash inflow for bank and banks need to plan to utilize this amount. 
+- 36 months is the popular term for all the loans, focus more on selling products with this term
+- Target middle income group since they are the most fully paid loans
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
